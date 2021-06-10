@@ -1,0 +1,8 @@
+data/*
+references_images/*
+.idea/*
+__pycache__/*
+.ipynb_checkpoints/*
+*.pyc
+
+
